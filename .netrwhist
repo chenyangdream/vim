@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/chenyang/source/matrix/server/vod/mxtranscoder/conf'
+let g:netrw_dirhist_2='/home/chenyang/source/matrix/server/vod/mxtransmaster_new/src'
+let g:netrw_dirhist_3='/home/chenyang/source/matrix/server/vod/mxtranscoder_new/src'
+let g:netrw_dirhist_4='/home/chenyang/source/matrix/server/vod/mxtranscoder/conf'
+let g:netrw_dirhist_5='/home/chenyang/source/matrix/server/vod/mxtranscoder_new/src/common'
+let g:netrw_dirhist_6='/home/chenyang/source/matrix/server/vod/mxtranscoder/conf'
+let g:netrw_dirhist_7='/home/chenyang/source/matrix/server/vod/mxtranscoder_new/conf'
